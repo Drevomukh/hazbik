@@ -1,0 +1,88 @@
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Buffers.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Memory.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Telegram.Bot.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\ZstdNet.dll
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Google.Protobuf.pdb
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Google.Protobuf.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\MySql.Data.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Buffers.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Memory.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\bin\Release\Telegram.Bot.xml
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.AdminForm.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.DeviceForm.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegForm2.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.UserForm.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.LoginForm.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegForm1.resources
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\tema0\Desktop\Smart_house-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Buffers.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Memory.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Telegram.Bot.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\ZstdNet.dll
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Google.Protobuf.pdb
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Google.Protobuf.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\MySql.Data.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Buffers.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Memory.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\bin\Release\Telegram.Bot.xml
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.AdminForm.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.DeviceForm.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegForm2.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.UserForm.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.LoginForm.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegForm1.resources
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Даниил\Documents\Семестр 6\Прог инж\дизайн\Smart_house-main + design\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
